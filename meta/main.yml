@@ -23,6 +23,7 @@ galaxy_info:
         - '24'
     - name: Ubuntu
       versions:
+        - bionic
         - artful
         - zesty
         - xenial
